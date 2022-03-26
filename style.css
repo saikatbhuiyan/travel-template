@@ -300,4 +300,17 @@ button:focus {
   .moving-cloud-2 {
     z-index: -2;
   }
+  .locations-head h3 {
+    background: rgba(19, 28, 39, 0.9);
+    -webkit-text-fill-color: white;
+  }
+  .form-wrapper {
+    width: 100%;
+  }
+  footer {
+    text-align: center;
+  }
+  footer h5 {
+    padding-bottom: 3rem;
+  }
 }
